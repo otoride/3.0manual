@@ -1,10 +1,9 @@
 ---
-title: "유저앱 정보 세팅하기"
+title: "유저앱 기본정보 세팅하기"
 permalink: /SetInfo/
 toc: true
 ---
 
-# 유저앱  기본  세팅하기
 
 ## 기업정보관리
 
