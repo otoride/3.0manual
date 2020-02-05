@@ -16,7 +16,7 @@ docs:
   - title: CS관리자 매뉴얼
     children:
       - title: "차량 등록하기"
-        url: /vehicles/
+        url: /registerVehicle/
       - title: "결제 세팅하기"
         url: /payment/
       - title: "유저앱 정보 세팅하기"
