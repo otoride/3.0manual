@@ -17,6 +17,18 @@ docs:
 
   - title: CS ADMIN
     children:
-      - title: "Working with Posts"
+      - title: "차량 등록하기"
         url: /docs/posts/
-
+      - title: "결제 세팅하기"
+        url: /docs/posts/
+      - title: "유저앱 기본 세팅하기"
+        url: /docs/posts/
+      - title: "서비스 운영"
+        url: /docs/posts/
+      - title: "차량관리서비스(FMS)"
+        url: /docs/posts/
+      - title: "Customer Service"
+        url: /docs/posts/
+      - title: "관리자관리"
+        url: /docs/posts/
+        
