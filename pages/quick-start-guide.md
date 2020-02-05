@@ -1,6 +1,9 @@
 ---
-title: "Quick Start Guide"
+title: "초기 세팅 가이드"
 permalink: /quick-start-guide/
 toc: true
 ---
 
+## 시스템 초기 세팅 가이드
+*오토라이드 CS 시스템을 사용하기 위해서는 초기 세팅이 필요합니다.  
+차량 예약을 위한 준비: **차량 등록 -->  결제 세팅--> 앱정보 세팅** * 

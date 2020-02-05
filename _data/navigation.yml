@@ -5,10 +5,12 @@ main:
 
 
 docs:
-  - title: Getting Started
+  - title: CS Admin
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "CS시스템 공통정책"
+        url: /policy/
+      - title: "초기세팅 가이드"
+        url: /quick-start-guide/
 
   - title: System Admin
     url: /SystemAdmin/
