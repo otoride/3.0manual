@@ -4,8 +4,6 @@ permalink: /SystemAdmin/
 toc: true
 ---
 
-# 시스템관리자
-
 ## 고객사관리 
 ### 신규 고객사를 등록하는 방법
 >고객사관리 > 신규등록 

@@ -12,7 +12,6 @@ docs:
   - title: "초기 세팅 가이드"
     url: /quick-start-guide/
 
-
   - title: CS 관리자 매뉴얼
     children:
       - title: "차량 등록하기"
