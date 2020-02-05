@@ -11,24 +11,22 @@ docs:
         url: /docs/quick-start-guide/
 
   - title: System Admin
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
+    url: /SystemAdmin/
 
-  - title: CS ADMIN
+  - title: CS Admin
     children:
       - title: "차량 등록하기"
-        url: /docs/posts/
+        url: /vehicles/
       - title: "결제 세팅하기"
-        url: /docs/posts/
-      - title: "유저앱 기본 세팅하기"
-        url: /docs/posts/
+        url: /payment/
+      - title: "유저앱 정보 세팅하기"
+        url: /SetInfo/
       - title: "서비스 운영"
-        url: /docs/posts/
+        url: /RunService/
       - title: "차량관리서비스(FMS)"
-        url: /docs/posts/
+        url: /FMS/
       - title: "Customer Service"
-        url: /docs/posts/
+        url: /Customer/
       - title: "관리자관리"
-        url: /docs/posts/
+        url: /managers/
         
