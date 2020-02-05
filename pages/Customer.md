@@ -4,9 +4,6 @@ permalink: /Customer/
 toc: true
 ---
 
-
-# CS (Customer Service)
-
 ## 공지사항  관리
 
 스마트폰  유저앱의  공지사항에  게시되는  글들을  관리합니다.

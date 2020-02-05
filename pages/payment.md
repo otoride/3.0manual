@@ -1,9 +1,8 @@
 ---
 permalink: /payment/
-title: "결제 세팅하기"
+title: "결제 	세팅하기"
 toc: true
 ---
-# 결제  세팅하기
 
 ## 요금제관리
 
