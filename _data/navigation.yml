@@ -5,17 +5,15 @@ main:
 
 
 docs:
-  - title: CS Admin
-    children:
-      - title: "CS시스템 공통정책"
-        url: /policy/
-      - title: "초기세팅 가이드"
-        url: /quick-start-guide/
+  - title: "CS시스템 공통정책"
+    url: /policy/
+  - title: "초기세팅 가이드"
+    url: /quick-start-guide/
 
-  - title: System Admin
+  - title: System관리자 매뉴얼
     url: /SystemAdmin/
 
-  - title: CS Admin
+  - title: CS관리자 매뉴얼
     children:
       - title: "차량 등록하기"
         url: /vehicles/
