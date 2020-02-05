@@ -4,8 +4,6 @@ permalink: /policy/
 toc: true
 ---
 
-## 카셰어링 시스템 공통 정책
-
 1. 회원 자격
 	- 만21세 이상 
 
