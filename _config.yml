@@ -69,10 +69,10 @@ search                   : true
 search_full_content      : false
 search_provider          : algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
+  application_id         : H3XU8TE715
   index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  search_only_api_key    : 2942c04f89c16562edc0931eb89bc980
+  powered_by             : true
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
