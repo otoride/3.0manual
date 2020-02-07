@@ -10,7 +10,7 @@ docs:
   - title: 시스템 관리자 매뉴얼
     url: /SystemAdmin/
   - title: "초기 세팅 가이드"
-    url: /quick-start-guide/
+    url: /quick/
 
   - title: CS 관리자 매뉴얼
     children:
