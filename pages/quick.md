@@ -1,4 +1,3 @@
-
 ---
 title: "QUICK START GUIDE"
 permalink: /quick/
