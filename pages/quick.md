@@ -10,8 +10,8 @@ toc: true
 
 1. **차량 등록하기** 
 	- **차량등록을 위한 사전 작업**
-				- **[구역 등록]([https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EA%B5%AC%EC%97%AD%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95](https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EA%B5%AC%EC%97%AD%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95))**
-				- **[지점 등록]([https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EC%A7%80%EC%A0%90%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95](https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EC%A7%80%EC%A0%90%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95))**
+				- **[구역 등록](https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EA%B5%AC%EC%97%AD%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)**
+				- **[지점 등록](https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EC%A7%80%EC%A0%90%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)**
 				- **[모델 등록](https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EC%B0%A8%EB%9F%89%EC%9D%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)**
 	- **[차량 등록](https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%EC%8B%A0%EA%B7%9C-%EC%B0%A8%EB%9F%89%EC%9D%84-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)**
 	- [클래스 등록](https://otoride.github.io/OTORIDE3.0_Manual_Ko/registerVehicle/#%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EB%93%B1%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)(클래스 단위 예약일 경우)
